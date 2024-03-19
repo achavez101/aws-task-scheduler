@@ -6,3 +6,4 @@
 #### npm add -D sass
 ## Vercel Deployment
 #### [Vercel Link](https://task-scheduler-ecru.vercel.app/)
+#### [Amplify AWS Link](https://main.d2f5xv1luyyggm.amplifyapp.com/)
